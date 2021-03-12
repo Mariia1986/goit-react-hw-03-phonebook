@@ -1,0 +1,22 @@
+.contaktList{
+    padding-left: 0;
+}
+
+
+
+.contaktListItem{
+    display:flex;
+    justify-content: first baseline;
+    vertical-align: center; 
+    text-align: center;
+  margin-bottom: 20px;
+    
+}
+
+.contaktListButton{
+    margin-left: 10px;
+    width: 70px;
+    height: 25px;
+    padding: 0;
+    /* vertical-align: middle; */
+}
